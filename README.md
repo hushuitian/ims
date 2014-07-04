@@ -1,4 +1,4 @@
 ims
 ===
 
-open source internet multimedia subsystem
+open source ims
